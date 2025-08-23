@@ -9,3 +9,6 @@ grim
 slurp
 wl-clipboard
 ```
+
+## Wallpapers 
+https://wallhaven.cc
