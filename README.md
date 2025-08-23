@@ -1,5 +1,13 @@
 # Me dotfiles for Hyperland
 
+## Setup
+```
+stow src
+# - create symlinks
+stow -D src
+# - delete symlinks
+```
+
 ## Dependencies
 ```
 wofi
