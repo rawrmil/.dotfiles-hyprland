@@ -10,12 +10,13 @@ stow -D src
 
 ## Dependencies
 ```
-wofi
 foot
 ttf-fira-code
+fuzzel
 grim
 slurp
 wl-clipboard
+hyprpaper
 ```
 
 ## Wallpapers 
